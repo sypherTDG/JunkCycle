@@ -66,7 +66,7 @@ nav .btn{
 @media (max-width: 840px) {
     .logo{
         width: 120px;
-        padding-left: 0px;
+        margin: 10px 0;
     }
     nav ul{
         position: fixed;
@@ -109,7 +109,7 @@ nav .btn{
 @media (max-width: 500px) {
     .logo{
         width: 120px;
-        padding-left: 0px;
+        margin: 10px 0;
     }
     nav ul{
         position: fixed;
