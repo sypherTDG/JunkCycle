@@ -4,6 +4,7 @@ import './Choose.css'
 // import user_2 from '../../assets/user2.png';
 // import user_3 from '../../assets/user3.png';
 import next_icon from '../../assets/white-arrow.png';
+
 import prev_icon from '../../assets/Left-Arrow.png';
 
 const Choose = () => {
