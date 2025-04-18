@@ -5,7 +5,7 @@ import user_2 from '../../assets/user2.png';
 import user_3 from '../../assets/user3.png';
 import user_4 from '../../assets/user4.png';
 import next_icon from '../../assets/white-arrow.png';
-import prev_icon from '../../assets/left-arrow.png';
+import prev_icon from '../../assets/Left-Arrow.png';
 
 const Testimonials = () => {
 

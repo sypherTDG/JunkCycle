@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'; // Ensure React and useEffect are impo
 import './Navbar.css';
 import logo from '../../assets/JunkCycle-Logo.svg';
 import { Link, Element } from 'react-scroll';
-import menu from '../../assets/menu.png';
+import menu from '../../assets/Menu.png';
 
 const Navbar = () => {
   // Logic function to add sticky class to navbar (enables changing navbar during scroll)
