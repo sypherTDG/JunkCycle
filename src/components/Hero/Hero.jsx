@@ -1,7 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import white_arrow from '../../assets/white-arrow.png'
-import green_arrow from '../../assets/Green-arrow.png'
+import green_arrow from '../../assets/Green-Arrow.png'
 import { Link } from 'react-scroll'
 
 const Hero = () => {
