@@ -120,7 +120,7 @@
         right: 0;
         transform: translateY(-50%);
         padding: 5px;
-        width: 35px;
+        width: 30px;
         border-radius: 50%;
         background-color: #047857;
         cursor: pointer;
@@ -128,7 +128,7 @@
     
     }
     .prev {
-        margin-right: 4rem;
+        margin-right: 3rem;
     }
 }
 @media (max-width: 500px) {
@@ -152,7 +152,7 @@
         right: 0;
         transform: translateY(-50%);
         padding: 5px;
-        width: 35px;
+        width: 30px;
         border-radius: 50%;
         background-color: #047857;
         cursor: pointer;
@@ -160,7 +160,7 @@
     
     }
     .prev {
-        margin-right: 4rem;
+        margin-right: 3rem;
     }
 }
 @media (max-width: 400px) {
