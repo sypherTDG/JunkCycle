@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'; // Ensure React and useEffect are imported
 import './Navbar.css';
-import logo from '../../assets/JunkCycle-Logo.svg';
+import logo from '../../assets/JunkCycle-Logo1.svg';
 import { Link, Element } from 'react-scroll';
 import menu from '../../assets/Menu.png';
 
