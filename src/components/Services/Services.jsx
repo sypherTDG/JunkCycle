@@ -46,7 +46,7 @@ const Services = () => {
                 <div className="caption">
                     <img className='icon2' src={serviceicon4} alt="" />
                     <p className='p1'>JunkCycle AI</p>
-                    <p className='pp'>Smart sorting recommendations to help you dispose responsibly. Coming soon: Track your carbon impact and earn sustainability credits.”"</p>
+                    <p className='pp'>Smart sorting recommendations to help you dispose responsibly. Coming soon: Track your carbon impact and earn sustainability credits.</p>
                 </div>
             </div>
         </div>
