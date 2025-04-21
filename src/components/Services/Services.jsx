@@ -22,7 +22,7 @@ const Services = () => {
                 <div className="caption">
                     <img className='icon'  src={serviceicon1} alt="" />
                     <p className='p1'>Waste Pickup</p>
-                    <p className='pp'>For households, businesses, or construction sites across Canada. Choose your preferred hauler, time, and pickup type.</p>
+                    <p className='pp'>Serving homes, businesses, and job sites across Canada. We’ll match you with a verified hauler based on your location and availability.</p>
                 </div>
             </div>
             <div className="service">
@@ -30,7 +30,7 @@ const Services = () => {
                 <div className="caption">
                     <img className='icon'  src={serviceicon2} alt="" />
                     <p className='p1'>Hauler Jobs</p>
-                    <p className='pp'>Independent or company haulers get matched with pickup requests in real time. Optimize routes, confirm jobs, and build reviews.</p>
+                    <p className='pp'> Get matched with local pickup jobs in real time. Confirm requests, optimize routes, and build your hauling business on JunkCycle.</p>
                 </div>
             </div>
             <div className="service">
@@ -38,7 +38,7 @@ const Services = () => {
                 <div className="caption">
                     <img className='icon2'  src={serviceicon3} alt="" />
                     <p className='p1'>Material Marketplace</p>
-                    <p className='pp'>List or browse reusable construction and household materials. Promote reuse, save on costs, and reduce unnecessary dumping.</p>
+                    <p className='pp'>Buy, sell, or give away reusable items. Save money and help reduce waste in your community.</p>
                 </div>
             </div>
             <div className="service">
@@ -46,7 +46,7 @@ const Services = () => {
                 <div className="caption">
                     <img className='icon2' src={serviceicon4} alt="" />
                     <p className='p1'>JunkCycle AI</p>
-                    <p className='pp'>Smart sorting recommendations for proper disposal. Coming soon: Track your carbon impact and earn potential credits."</p>
+                    <p className='pp'>Smart sorting recommendations to help you dispose responsibly. Coming soon: Track your carbon impact and earn sustainability credits.”"</p>
                 </div>
             </div>
         </div>

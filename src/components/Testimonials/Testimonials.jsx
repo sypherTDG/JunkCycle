@@ -64,7 +64,7 @@ return (
                                                             <span>Contractor</span>
                                                     </div>
                                             </div> 
-                                            <p>“JunkCircle made waste management seamless — faster pickups, lower costs, and everything organized.”</p>
+                                            <p>“JunkCycle made waste management seamless — faster pickups, lower costs, and everything organized.”</p>
                                     </div>
                             </li>
                             <li>
