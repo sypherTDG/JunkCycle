@@ -43,9 +43,9 @@ const Contact = () => {
             We look forward to hearing from you!
         </p>
             <ul>
-                <li><img src={phone_icon} alt='phone' />+1 234 567 890</li>
+                <li><img src={phone_icon} alt='phone' />1-431-556-8533</li>
                 <li><img src={email_icon} alt='email' />contact@junkcycle.ca</li>
-                <li><img src={address_icon} alt='address' />5660 Heimingdal Drive, Windsor, Ontario, Canada</li>
+                <li><img src={address_icon} alt='address' /> Winnipeg, Manitoba, Canada</li>
             </ul>
        </div>
        <div className='contact-info'>
