@@ -4,6 +4,9 @@ import msg_icon from '../../assets/Send-email.png';
 import phone_icon from '../../assets/Phone.png';
 import email_icon from '../../assets/Paper-Plane.png';
 import address_icon from '../../assets/Location.png';
+import instagram_icon from '../../assets/Instagram.png';
+import x_icon from '../../assets/X.png';
+import linkedin_icon from '../../assets/LinkedIn.png';
 import white_arrow from '../../assets/white-arrow.png';
 
 const Contact = () => {
@@ -37,15 +40,18 @@ const Contact = () => {
   return (
     <div className='contact'>
        <div className='contact-info'> 
-        <h3>Send us a message <img src={msg_icon} alt="" /></h3>
+        <h3>Send us a message <img src={msg_icon} alt="Message Icon" /></h3>
         <p>We’re here to help with any questions or concerns you may have.
-            Feel free to reach out to us via the listed contact detials or give us a call.
+            Feel free to reach out to us via the listed contact details or give us a call.
             We look forward to hearing from you!
         </p>
             <ul>
-                <li><img src={phone_icon} alt='phone' />1-431-556-8533</li>
-                <li><img src={email_icon} alt='email' />contact@junkcycle.ca</li>
-                <li><img src={address_icon} alt='address' /> Winnipeg, Manitoba, Canada</li>
+                <li><img src={phone_icon} alt='Phone Icon' />1-431-556-8533</li>
+                <li><img src={email_icon} alt='Email Icon' />contact@junkcycle.ca</li>
+                <li><img src={address_icon} alt='Address Icon' /> Winnipeg, Manitoba, Canada</li>
+                <li><img src={instagram_icon} alt='Instagram Icon' /> <a href="https://www.instagram.com/hellojunkcycle/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+                <li><img src={linkedin_icon} alt='LinkedIn Icon' /> <a href="https://www.linkedin.com/in/junk-cycle-31ba82362" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                <li><img src={x_icon} alt='X Icon' /> <a href="https://x.com/HelloJunkCycle" target="_blank" rel="noopener noreferrer">X</a></li> 
             </ul>
        </div>
        <div className='contact-info'>
